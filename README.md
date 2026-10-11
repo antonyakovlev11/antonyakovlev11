@@ -1,6 +1,6 @@
-<img align="right" width="132" src="profile-logo.png" alt="Логотип Антона Яковлева">
-
 # Антон Яковлев
+
+<img align="right" width="132" src="profile-logo.png" alt="Логотип Антона Яковлева">
 
 Портфолио
 
