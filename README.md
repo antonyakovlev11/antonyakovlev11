@@ -1,4 +1,8 @@
-![Антон Яковлев · Портфолио · 7 проектов · 17 графиков зарплат · 3 графика теплообмена](profile-header.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-header-theme-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-header-theme-light.svg">
+  <img alt="Антон Яковлев · Портфолио · 7 проектов · 17 графиков зарплат · 3 графика теплообмена" src="profile-header-theme-light.svg" width="1200">
+</picture>
 
 ## Избранные проекты
 
