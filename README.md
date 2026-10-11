@@ -78,6 +78,4 @@
 
 ## Связаться
 
-[**Telegram · @rkkvg →**](https://t.me/rkkvg) &nbsp; · &nbsp; [**Email →**](mailto:antonakovlev82081@gmail.com)
-
-antonakovlev82081@gmail.com
+[**Telegram · @rkkvg →**](https://t.me/rkkvg) &nbsp; · &nbsp; [**antonakovlev82081@gmail.com →**](mailto:antonakovlev82081@gmail.com)
