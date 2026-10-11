@@ -1,4 +1,4 @@
-<img align="right" width="220" src="header-pattern.svg" alt="">
+<img align="right" width="132" src="profile-logo.png" alt="Логотип Антона Яковлева">
 
 # Антон Яковлев
 
